@@ -1,0 +1,3 @@
+platform
+pyperclip
+streamlit
